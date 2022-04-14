@@ -1,0 +1,62 @@
+
+.callout {
+    border-left: 5px solid green;
+    padding: 16px ;
+    background-color:red;
+    color:white;
+    font-size: 20px;
+    border-radius: 4px;
+}
+
+/* .callout-info {}
+.callout-warning {}
+.callout-danger {} */
+
+.navbar-nav {
+    padding-left: 140px;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 40px;
+    padding-left: 0.5rem;
+}
+
+.navbar-dark .navbar-brand {
+   font-size: 30px;
+}
+
+
+/*  */
+
+.main{
+    background-color: rgb(146, 222, 222);
+    padding: 50px 0;
+}
+.main h1{
+    text-align: center;
+}
+
+.wrapper{
+    padding: 20px 0;
+    text-align: center;
+}
+
+.content_box1{
+    background-color: rgb(208, 208, 208);
+}
+
+.content_box2{
+    background-color: rgb(133, 170, 170);
+}
+
+.blog{
+    background-color:rgb(134, 214, 214);
+    padding:50px 0;
+
+}
+
+.blog2{
+    background-color:rgb(134, 200, 200);
+    padding:50px 0;
+
+}
